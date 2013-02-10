@@ -10,7 +10,7 @@ public class exe01 {
 			double gf;
 			gf = (9*gc + 160)/5;
 			
-		System.out.println(gc+" graus Celsius é = "+gf+" graus Fahrenheit.");
+		System.out.println(gc+" graus Celsius é = "+gf+" Fahrenheit.");
 	}
 }
 
